@@ -1,7 +1,7 @@
 # House-Prices-Advanced-Regression-Techniques
 Sequential Forward Selection (SFS) model stacking
 
-The goal of this project was to use EDA, data preprocessing, and linear and nonlinear models, as well as advanced model ensemble to predict house prices given 80 features of houses, and I will also try to interpret the linear models to find out which features are important to the house prices. The data was originally available on Kaggle.
+The goal of this project was to use EDA, data preprocessing, and linear and nonlinear models, as well as advanced model ensemble to predict house prices given 80 features of houses, and I will also try to interpret the linear models to find out which features are important to the house prices. The data was originally available on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
 To further improve generalizability and robustness over a single model, I employ model ensemble methods, i.e., to combine the predictions of several base estimators and make a more robust one. Compared with a simple model blending method (easy to implement), in which coefficients are empirically chosen for each base model, model stacking (or stacking regressor) enables such coefficients computed in a secondary level model. It thus allows a better performance.
 
