@@ -7,6 +7,10 @@ Model ensemble can further improve generalizability and robustness over a single
 
 However, using all available base models in a stacked model is not a good idea. (This will be demonstrated in the final evaluation section). On the other hand, it is computationally expensive to evaluate all possible combinations of stacked models. Here, we use a heuristic algorithm, sequential forward selection (SFS), aiming to find a (sub)optimal solution for the model stacking. See the figure below.
 
+<p align="center">
+    <img width="200%" src="images/SFS-stack2.png.png" style="max-width:200%;"></a>
+</p>
+
 
 For demonstration purpose, three Jupyter notebooks were used to cover the following three main sections: EDA, data preprocessing, and model evaluation.
 
