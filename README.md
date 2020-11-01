@@ -1,5 +1,5 @@
 # House-Prices-Advanced-Regression-Techniques
-Sequential Forward Selection (SFS) model stacking
+A demostration of Sequential Forward Selection (SFS) model stacking.
 
 The goal of this project was to use EDA, data cleaning and preprocessing, as well as advanced model-ensemble methods to predict house prices given 80 features of houses (data originally available on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)). Ten linear and nonlinear models were evaluated, e.g., Lasso was used to predict sale prices and to show which features are important to the house prices.
 
