@@ -38,8 +38,14 @@ ______________________________
 
 
 The final testing performance evaluated by Kaggle is shown below.
+
 Single best model (Lasso): 0.12725
+
 All model stacking (final = Lasso): 0.12349
+
 All model stacking (final = Ridge): 0.12436
+
 SFS-model stacking (final = Lasso): 0.12284
+
 SFS-model stacking (final = Ridge): 0.12264 (best)
+
