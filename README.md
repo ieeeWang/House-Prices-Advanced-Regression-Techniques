@@ -8,6 +8,8 @@ To further improve generalizability and robustness over a single model, I employ
 However, to use all available base models in a stacked model may be not a good idea. (This will be demonstrated in the final evaluation section). On the other hand, it is computationally expensive to evaluate all possible combination of stacked models. Here, we use a heuristic sequential forward selection (SFS), aiming to find a (sub)optimal solution for the model stacking. See figure below.
 
 
+For demonstration purpose, three Jupyter notebooks were used to cover the following three main sections: EDA, data preprocessing, and model evaluation.
+
 1. Exploratory Data Analysis
     + Load data
     + Numerical and categorical features
