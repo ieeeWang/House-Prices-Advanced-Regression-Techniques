@@ -35,3 +35,11 @@ For demonstration purpose, three Jupyter notebooks were used to cover the follow
     + Sequential Forward Selection (SFS) model stacking
     + Final evaluation
 ______________________________
+
+
+The final testing performance evaluated by Kaggle is shown below.
+Single best model (Lasso): 0.12725
+All model stacking (final = Lasso): 0.12349
+All model stacking (final = Ridge): 0.12436
+SFS-model stacking (final = Lasso): 0.12284
+SFS-model stacking (final = Ridge): 0.12264 (best)
