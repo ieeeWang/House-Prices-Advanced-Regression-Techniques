@@ -4,7 +4,7 @@ A demostration of Sequential Forward Selection (SFS) model stacking.
 The goal of this project was to use EDA, data cleaning and preprocessing, as well as advanced model-ensemble methods to predict house prices given 80 features of houses (data originally available on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)). Ten linear and nonlinear models were evaluated, e.g., Lasso was used to predict sale prices and to show which features are important to the house prices.
 
 <p align="center">
-    <img width="60%" src="images/single_model_perf3.png" style="max-width:60%;"></a>
+    <img width="80%" src="images/single_model_perf3.png" style="max-width:80%;"></a>
 </p>
 
 
@@ -13,7 +13,7 @@ Model ensemble can further improve generalizability and robustness over a single
 However, using all available base models in a stacked model is not a good idea. (This will be demonstrated in the final evaluation section). On the other hand, it is computationally expensive to evaluate all possible combinations of stacked models. Here, we use a heuristic algorithm, sequential forward selection (SFS), aiming to find a (sub)optimal solution for the model stacking. See the figure below.
 
 <p align="center">
-    <img width="80%" src="images/SFS-stack3.png" style="max-width:80%;"></a>
+    <img width="80%" src="images/SFS-stack2.png" style="max-width:80%;"></a>
 </p>
 
 
