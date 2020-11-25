@@ -19,7 +19,7 @@ However, using all available base models in a stacked model is not a good idea. 
 
 For demonstration purpose, three Jupyter notebooks were used to cover the following three main sections: EDA, data preprocessing, and model evaluation.
 
-1. Exploratory Data Analysis
+1. Exploratory Data Analysis [here](./House_Prices_LW_01_EDA.ipynb) 
     + Load data
     + Numerical and categorical features
     + Features with missing values
