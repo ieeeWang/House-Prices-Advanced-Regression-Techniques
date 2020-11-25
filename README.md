@@ -27,7 +27,7 @@ For demonstration purpose, three Jupyter notebooks were used to cover the follow
     + Save cleaned data for further analysis
 
 
-2. Data preprocessing
+2. Data preprocessing [here](./House_Prices_LW_02_preprocessing.ipynb) 
     + Load cleaned data
     + Numerical features: reducing skewness
     + Categorical features: converting to numerical (option A and B)
@@ -36,7 +36,7 @@ For demonstration purpose, three Jupyter notebooks were used to cover the follow
     + Save preprocessed data for further analysis
 
 
-3. Model evaluation
+3. Model evaluation [here](./House_Prices_LW_03_modeling.ipyb) 
     + Load preprocessed data
     + Modeling (linear and nonlinear models)
     + Comparison amongst models
