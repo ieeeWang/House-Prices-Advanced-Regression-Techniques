@@ -36,7 +36,7 @@ For demonstration purpose, three Jupyter notebooks were used to cover the follow
     + Save preprocessed data for further analysis
 
 
-3. Model evaluation [here](./House_Prices_LW_03_modeling.ipyb) 
+3. Model evaluation [here](./House_Prices_LW_03_modeling.ipynb) 
     + Load preprocessed data
     + Modeling (linear and nonlinear models)
     + Comparison amongst models
